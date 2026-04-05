@@ -1,6 +1,6 @@
-# 5.6PA School Assignment
+# StudyFlow
 
-Simple React application deployed with GitHub Pages for a class deployment assignment.
+Simple React application deployed with GitHub Pages.
 
 ## Public URL
 
@@ -26,5 +26,5 @@ Simple React application deployed with GitHub Pages for a class deployment assig
 
 ## Notes
 
-- The app is a single-page responsive study dashboard called `StudyFlow`.
+- The app is a single-page responsive personal dashboard called `StudyFlow`.
 - GitHub Pages hosting is configured for the repository path `/5.6PA-school-assignment/`.

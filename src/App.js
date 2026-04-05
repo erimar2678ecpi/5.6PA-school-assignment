@@ -5,7 +5,7 @@ const highlights = [
     eyebrow: 'Plan',
     title: 'Build a calm routine',
     description:
-      'Map your study blocks, track small wins, and keep your week organized without clutter.',
+      'Map your time blocks, track small wins, and keep your week organized without clutter.',
   },
   {
     eyebrow: 'Focus',
@@ -30,7 +30,7 @@ const agenda = [
   {
     time: '10:00 AM',
     title: 'Deep focus block',
-    detail: 'Work distraction-free on the assignment that matters most.',
+    detail: 'Work distraction-free on the task that matters most.',
   },
   {
     time: '1:30 PM',
@@ -46,11 +46,11 @@ function App() {
         <section className="hero">
           <div className="hero-copy">
             <p className="eyebrow">Simple React app for GitHub Pages</p>
-            <h1>Make school projects feel organized, focused, and finished.</h1>
+            <h1>Plan your day with a calm, simple routine.</h1>
             <p className="hero-text">
-              This sample app presents a clean study dashboard with a calm visual
-              style, responsive layout, and lightweight content that deploys
-              well to GitHub Pages.
+              This sample app presents a clean personal dashboard with a calm
+              visual style, responsive layout, and lightweight content that
+              deploys well to GitHub Pages.
             </p>
             <div className="hero-actions">
               <a className="primary-action" href="#planner">
@@ -127,11 +127,11 @@ function App() {
         <section className="cta-banner">
           <div>
             <p className="eyebrow">Deployment-ready</p>
-            <h2>Built to be small, clear, and easy to submit.</h2>
+            <h2>Built to be small, clear, and easy to use.</h2>
           </div>
           <p className="cta-text">
             The page uses a single React view, custom styling, and a GitHub
-            Pages deployment flow that is easy to document for class.
+            Pages deployment flow that stays simple to maintain.
           </p>
         </section>
       </main>

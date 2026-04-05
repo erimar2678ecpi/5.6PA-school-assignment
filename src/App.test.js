@@ -5,7 +5,7 @@ test('renders the main study dashboard heading', () => {
   render(<App />);
   expect(
     screen.getByRole('heading', {
-      name: /make school projects feel organized, focused, and finished/i,
+      name: /plan your day with a calm, simple routine/i,
     })
   ).toBeInTheDocument();
 });
